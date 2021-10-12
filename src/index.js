@@ -5,4 +5,4 @@ import RefDemo from './RefDemoComponent';
 import AutoRefDemo from './AutoRefDemo';
 
 
-ReactDom.render(<AutoRefDemo/>,document.querySelector('#root'))
+ReactDom.render(<Route/>,document.querySelector('#root'))
